@@ -1,0 +1,27 @@
+---
+title: "Beauty Bar"
+image: "Images/1.jpg"
+links:
+  - label: '<i class="fa-brands fa-instagram fa-beat"></i> insta'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fa-brands fa-snapchat fa-fade"></i> Snap'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fa-brands fa-whatsapp fa-fade"></i> whatsapp'
+    url: "mailto:yasmin.begum_22@greenoak.bham.sch.uk"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## Introduction
+
+Beauty bar is all you can dream of. it has the best spa.Did you know that Beauty bar is 1 of the top 10 best spas. It also has foot massages,massaging chairs and many more.
+
+
+
+![](Images/bleh.jfif)
+
+
+
+
+

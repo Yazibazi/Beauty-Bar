@@ -1,0 +1,21 @@
+---
+title: "Discounts"
+description: |
+  A new article created using the Distill format.
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+If you are a new customer you will get a 70% discount and if you are a regular customer you will get a 50% discount. Better than the other discounts that u get.
+
+![](Images/bloh.jfif)
+
+
+
+
+
