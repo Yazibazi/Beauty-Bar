@@ -15,8 +15,7 @@ site: distill::distill_website
  
 ## Introduction
 
-Beauty bar is all you can dream of. it has the best spa.Did you know that Beauty bar is 1 of the top 10 best spas. It also has foot massages,massaging chairs and many more.
-
+Beauty bar is all you can dream of. It has the best Spa. Did you know that Beauty bar is 1 of the top 10 best spas? It also has foot massages, massaging chairs and many more.
 
 
 ![](Images/hijabi.webp){width=60%}

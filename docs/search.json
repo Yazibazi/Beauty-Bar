@@ -1,35 +1,11 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "Travel",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\nDo u want a days of from ur kids or siblings if they are annoying. Well here at beauty bar u can have the relaxation of ur time and u can book as many days as u want.U can get discounts. So come and book a place for ur vacation. so call us on 00805 9967 332\nor email us on beauty.bar@gmail.com.\n\n\n\n\n",
-      "last_modified": "2024-06-05T11:09:59+00:00"
-    },
-    {
-      "path": "End.html",
-      "title": "Products",
-      "author": [],
-      "contents": "\n\n\n\n\n",
-      "last_modified": "2024-06-05T11:10:00+00:00"
-    },
-    {
       "path": "index.html",
       "title": "Beauty Bar",
       "author": [],
-      "contents": "\n\n          \n          \n          Beauty Bar\n          \n          \n          Home\n          Discounts\n          Products\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Beauty Bar\n            \n            \n              \n                \n                    \n                      \n                        \n                        insta\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        Snap\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        whatsapp\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Beauty bar is all you can dream of. it has the best\n            spa.Did you know that Beauty bar is 1 of the top 10 best\n            spas. It also has foot massages,massaging chairs and many\n            more.\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Beauty Bar\n            \n            \n              \n                \n                                    \n                    \n                      \n                      insta\n                    \n                  \n                                    \n                    \n                       Snap\n                    \n                  \n                                    \n                    \n                      \n                      whatsapp\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Beauty bar is all you can dream of. it has the best\n              spa.Did you know that Beauty bar is 1 of the top 10 best\n              spas. It also has foot massages,massaging chairs and many\n              more.\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-06-05T11:10:01+00:00"
-    },
-    {
-      "path": "Info.html",
-      "title": "Discounts",
-      "description": "A new article created using the Distill format.\n",
-      "author": [],
-      "date": "`r Sys.Date()`",
-      "contents": "\nThis is where u can travel for prices taht are shocking.If you are a new customer you will get a 70% discount and if you are a regular customer you will get a 50% discount. Better than the other discounts that u get.\n\n\n\n\n",
-      "last_modified": "2024-06-05T11:10:02+00:00"
+      "contents": "\n\n          \n          \n          Beauty Bar\n          \n          \n          Home\n          Discounts\n          Products\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Beauty Bar\n            \n            \n              \n                \n                    \n                      \n                        \n                        insta\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        Snap\n                      \n                    \n                  \n                                    \n                    \n                      \n                        \n                        whatsapp\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Beauty bar is all you can dream of. It has the best Spa.\n            Did you know that Beauty bar is 1 of the top 10 best spas?\n            It also has foot massages, massaging chairs and many\n            more.\n            \n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Beauty Bar\n            \n            \n              \n                \n                                    \n                    \n                      \n                      insta\n                    \n                  \n                                    \n                    \n                       Snap\n                    \n                  \n                                    \n                    \n                      \n                      whatsapp\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Beauty bar is all you can dream of. It has the best\n              Spa. Did you know that Beauty bar is 1 of the top 10 best\n              spas? It also has foot massages, massaging chairs and many\n              more.\n              \n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-06-24T17:36:28+00:00"
     }
   ],
   "collections": []
