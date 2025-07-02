@@ -1,6 +1,6 @@
 ---
 title: "Horizon Travels"
-image: "Images/1.jpg"
+image: "Images/o.jpg"
 links:
   - label: '<i class="fa-brands fa-instagram fa-beat"></i> insta'
     url: 'https://twitter.com/R_Girls_School target="_blank"'
